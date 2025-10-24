@@ -1,5 +1,7 @@
 # Este projeto
 /dados/
+!dados/*.parquet
+!dados/*.geojson
 *.ipynb
 
 # Mac OS-specific storage files
